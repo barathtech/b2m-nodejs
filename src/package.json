@@ -6,7 +6,9 @@
     "start": "node"
   },
   "dependencies": {
-    "express": "4.17.1"
+    "express": "4.17.1",
+    "winston": "^3.2.1"
+    "winston": "^3.7.2"
   },
   "license": "MIT",
   "repository": {
